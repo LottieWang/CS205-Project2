@@ -1,0 +1,78 @@
+['project2.py', 'data/small/CS205_small_testdata__19.txt', '0']
+The data has 10 features in total.
+in 1th round
+select feature 1, with accuracy 0.6933333333333334
+select feature 2, with accuracy 0.7466666666666667
+select feature 3, with accuracy 0.7066666666666667
+select feature 4, with accuracy 0.76
+select feature 5, with accuracy 0.6733333333333333
+select feature 6, with accuracy 0.72
+select feature 7, with accuracy 0.72
+select feature 8, with accuracy 0.7566666666666667
+select feature 9, with accuracy 0.76
+select feature 10, with accuracy 0.8566666666666667
+feature set [10] was best, with accuracy 0.8566666666666667
+in 2th round
+select feature 1, with accuracy 0.8366666666666667
+select feature 2, with accuracy 0.8233333333333334
+select feature 3, with accuracy 0.8466666666666667
+select feature 4, with accuracy 0.9833333333333333
+select feature 5, with accuracy 0.8533333333333334
+select feature 6, with accuracy 0.8366666666666667
+select feature 7, with accuracy 0.8
+select feature 8, with accuracy 0.85
+select feature 9, with accuracy 0.81
+feature set [10, 4] was best, with accuracy 0.9833333333333333
+in 3th round
+select feature 1, with accuracy 0.9133333333333333
+select feature 2, with accuracy 0.9066666666666666
+select feature 3, with accuracy 0.9166666666666666
+select feature 5, with accuracy 0.93
+select feature 6, with accuracy 0.93
+select feature 7, with accuracy 0.93
+select feature 8, with accuracy 0.9033333333333333
+select feature 9, with accuracy 0.93
+feature set [10, 4, 5] was best, with accuracy 0.93
+in 4th round
+select feature 1, with accuracy 0.8766666666666667
+select feature 2, with accuracy 0.8266666666666667
+select feature 3, with accuracy 0.87
+select feature 6, with accuracy 0.89
+select feature 7, with accuracy 0.87
+select feature 8, with accuracy 0.8666666666666667
+select feature 9, with accuracy 0.8966666666666666
+feature set [10, 4, 5, 9] was best, with accuracy 0.8966666666666666
+in 5th round
+select feature 1, with accuracy 0.84
+select feature 2, with accuracy 0.8366666666666667
+select feature 3, with accuracy 0.8266666666666667
+select feature 6, with accuracy 0.84
+select feature 7, with accuracy 0.8466666666666667
+select feature 8, with accuracy 0.8033333333333333
+feature set [10, 4, 5, 9, 7] was best, with accuracy 0.8466666666666667
+in 6th round
+select feature 1, with accuracy 0.79
+select feature 2, with accuracy 0.82
+select feature 3, with accuracy 0.8166666666666667
+select feature 6, with accuracy 0.7866666666666666
+select feature 8, with accuracy 0.8
+feature set [10, 4, 5, 9, 7, 2] was best, with accuracy 0.82
+in 7th round
+select feature 1, with accuracy 0.7833333333333333
+select feature 3, with accuracy 0.8266666666666667
+select feature 6, with accuracy 0.7933333333333333
+select feature 8, with accuracy 0.8
+feature set [10, 4, 5, 9, 7, 2, 3] was best, with accuracy 0.8266666666666667
+in 8th round
+select feature 1, with accuracy 0.77
+select feature 6, with accuracy 0.7666666666666667
+select feature 8, with accuracy 0.7766666666666666
+feature set [10, 4, 5, 9, 7, 2, 3, 8] was best, with accuracy 0.7766666666666666
+in 9th round
+select feature 1, with accuracy 0.78
+select feature 6, with accuracy 0.75
+feature set [10, 4, 5, 9, 7, 2, 3, 8, 1] was best, with accuracy 0.78
+in 10th round
+select feature 6, with accuracy 0.7266666666666667
+feature set [10, 4, 5, 9, 7, 2, 3, 8, 1, 6] was best, with accuracy 0.7266666666666667
+Finished search! The best feature set is [10, 4]. with accuracy 0.9833333333333333.

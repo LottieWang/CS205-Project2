@@ -1,0 +1,75 @@
+['project2.py', 'data/small/CS205_small_testdata__23.txt', '1']
+The data has 10 featuers in total.
+in 1th round
+remove feature 1, with accuracy 0.72
+remove feature 2, with accuracy 0.7
+remove feature 3, with accuracy 0.74
+remove feature 4, with accuracy 0.6866666666666666
+remove feature 5, with accuracy 0.7166666666666667
+remove feature 6, with accuracy 0.6933333333333334
+remove feature 7, with accuracy 0.7433333333333333
+remove feature 8, with accuracy 0.7466666666666667
+remove feature 9, with accuracy 0.7233333333333334
+remove feature 10, with accuracy 0.7466666666666667
+feature set [1, 2, 3, 4, 5, 6, 7, 9, 10] was best, with accuracy 0.7466666666666667
+in 2th round
+remove feature 1, with accuracy 0.7166666666666667
+remove feature 2, with accuracy 0.7366666666666667
+remove feature 3, with accuracy 0.7833333333333333
+remove feature 4, with accuracy 0.7533333333333333
+remove feature 5, with accuracy 0.75
+remove feature 6, with accuracy 0.73
+remove feature 7, with accuracy 0.7366666666666667
+remove feature 9, with accuracy 0.72
+remove feature 10, with accuracy 0.7366666666666667
+feature set [1, 2, 4, 5, 6, 7, 9, 10] was best, with accuracy 0.7833333333333333
+in 3th round
+remove feature 1, with accuracy 0.72
+remove feature 2, with accuracy 0.74
+remove feature 4, with accuracy 0.7833333333333333
+remove feature 5, with accuracy 0.8
+remove feature 6, with accuracy 0.8066666666666666
+remove feature 7, with accuracy 0.7933333333333333
+remove feature 9, with accuracy 0.77
+remove feature 10, with accuracy 0.7766666666666666
+feature set [1, 2, 4, 5, 7, 9, 10] was best, with accuracy 0.8066666666666666
+in 4th round
+remove feature 1, with accuracy 0.7266666666666667
+remove feature 2, with accuracy 0.7733333333333333
+remove feature 4, with accuracy 0.8366666666666667
+remove feature 5, with accuracy 0.7866666666666666
+remove feature 7, with accuracy 0.8
+remove feature 9, with accuracy 0.8166666666666667
+remove feature 10, with accuracy 0.8
+feature set [1, 2, 5, 7, 9, 10] was best, with accuracy 0.8366666666666667
+in 5th round
+remove feature 1, with accuracy 0.74
+remove feature 2, with accuracy 0.81
+remove feature 5, with accuracy 0.81
+remove feature 7, with accuracy 0.82
+remove feature 9, with accuracy 0.85
+remove feature 10, with accuracy 0.85
+feature set [1, 2, 5, 7, 10] was best, with accuracy 0.85
+in 6th round
+remove feature 1, with accuracy 0.7466666666666667
+remove feature 2, with accuracy 0.82
+remove feature 5, with accuracy 0.86
+remove feature 7, with accuracy 0.8333333333333334
+remove feature 10, with accuracy 0.8466666666666667
+feature set [1, 2, 7, 10] was best, with accuracy 0.86
+in 7th round
+remove feature 1, with accuracy 0.7266666666666667
+remove feature 2, with accuracy 0.7933333333333333
+remove feature 7, with accuracy 0.8733333333333333
+remove feature 10, with accuracy 0.8933333333333333
+feature set [1, 2, 7] was best, with accuracy 0.8933333333333333
+in 8th round
+remove feature 1, with accuracy 0.7366666666666667
+remove feature 2, with accuracy 0.81
+remove feature 7, with accuracy 0.95
+feature set [1, 2] was best, with accuracy 0.95
+in 9th round
+remove feature 1, with accuracy 0.73
+remove feature 2, with accuracy 0.85
+feature set [1] was best, with accuracy 0.85
+Finished search! The best feature set is [1, 2]. with accuracy 0.95.
